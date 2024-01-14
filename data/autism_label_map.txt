@@ -1,0 +1,13 @@
+Arms_up
+Blow_kiss
+Touch_ear
+Misc
+Touch_head
+Wave_bye
+Tapping
+Clap_hands
+Touch_Elbow
+Rolly_Polly
+Touch_tummy
+Touch_nose
+Knocking
